@@ -1,6 +1,6 @@
 # Nick Merich
 
-Founder of [GRYT](https://grytrunclub.com), a Pittsburgh run club that produces artist-led athletic events. 10+ years running growth for tech companies and home-services businesses. Most of what I publish here is operating knowledge written as agent skills: the playbooks I actually use, in a format any agent that reads `SKILL.md` can run.
+Founder of [GRYT](https://grytrunclub.com), a Pittsburgh run club that produces artist-led athletic events. 10+ years running growth for music tech companies and home-services businesses. Most of what I publish here is operating knowledge written as agent skills: the playbooks I actually use, in a format any agent that reads `SKILL.md` can run.
 
 ## Skills libraries
 
